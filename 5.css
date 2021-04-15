@@ -1,8 +1,16 @@
- 
-body{
-  background:url(https://ilyakhasanov.ru/images/background/75.png) no-repeat #33CCFF center top;
-  color:yellow;
+p#sn, p#so, p#si{
+  font-family: Verdana, sans-serif;
 }
+p#sn{
+  font-style:normal;
+}
+p#so{
+  font-style:oblique;
+}
+p#si{
+  font-style:italic;
+}
+    
 
     
 
