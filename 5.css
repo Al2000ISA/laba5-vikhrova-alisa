@@ -7,6 +7,14 @@ p#so{
 p#si{
   font-style:normal;
 }
+a{
+  text-decoration:none;
+  text-align:center;
+}
+a:hover{
+  text-decoration:underline;
+}
+
    
 
 
